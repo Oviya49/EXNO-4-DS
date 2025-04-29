@@ -24,56 +24,37 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-![Screenshot 2025-04-26 111326](https://github.com/user-attachments/assets/aa37c7a0-7a1c-4475-bd47-cbfcc093941a)
 
-![Screenshot 2025-04-26 111355](https://github.com/user-attachments/assets/bab860db-86c2-48c5-af4c-b512a44fd4e5)
-
-![Screenshot 2025-04-26 111408](https://github.com/user-attachments/assets/9f72a0f0-64a0-4f00-99a2-48059ba09298)
-
-![Screenshot 2025-04-26 111421](https://github.com/user-attachments/assets/876544a5-90db-4839-8883-e6d4c952218e)
-
-![Screenshot 2025-04-26 111434](https://github.com/user-attachments/assets/5da63c4f-4269-454d-9d4c-c00c31b4f7be)
-
-![Screenshot 2025-04-26 111442](https://github.com/user-attachments/assets/71b46bba-72b3-42ad-a8a7-62cc036c2185)
-
-![Screenshot 2025-04-26 111459](https://github.com/user-attachments/assets/66c2e713-9510-467a-805d-dd1cd9c762ea)
-
-![Screenshot 2025-04-26 111508](https://github.com/user-attachments/assets/3e60fe53-4f8a-4dfa-bad6-5405a18d5857)
-
-![Screenshot 2025-04-26 111515](https://github.com/user-attachments/assets/f43ed13f-8a3c-45ad-9fd7-f8c268e9c86f)
-
-![Screenshot 2025-04-26 111528](https://github.com/user-attachments/assets/44078a7c-59f9-4223-b647-5628840a63d2)
-
-![Screenshot 2025-04-26 111537](https://github.com/user-attachments/assets/864425bc-cfca-40f7-88af-28a0b37dcf42)
-
-![Screenshot 2025-04-26 111545](https://github.com/user-attachments/assets/e0c839bc-b683-40cf-aa4d-277591302328)
-
-![Screenshot 2025-04-26 111551](https://github.com/user-attachments/assets/f31442cc-45bf-4666-82b8-057acec77531)
-
-![Screenshot 2025-04-26 111604](https://github.com/user-attachments/assets/0ec21fe5-e47c-45c0-97d1-4be2658900fc)
-
-![Screenshot 2025-04-26 111616](https://github.com/user-attachments/assets/b0c96208-f1f1-407b-ae59-8a190c452bcc)
-
-![Screenshot 2025-04-26 111630](https://github.com/user-attachments/assets/a613197c-bb14-41dd-b853-442184a8df42)
-
-![Screenshot 2025-04-26 111644](https://github.com/user-attachments/assets/920a7325-9950-40c5-b6cb-0abe0404bbc4)
-
-![Screenshot 2025-04-26 111706](https://github.com/user-attachments/assets/9bd8e510-677b-49ca-96a0-6f5889d4aa96)
-
-![Screenshot 2025-04-26 111714](https://github.com/user-attachments/assets/d6d6e1e2-b0d2-4a2c-87c5-26e3408e269a)
-
-![Screenshot 2025-04-26 111724](https://github.com/user-attachments/assets/21245783-7e00-499e-941a-88723c2e1581)
-
-![Screenshot 2025-04-26 111733](https://github.com/user-attachments/assets/abdfd336-3ed9-470b-a171-dd26011c21bb)
-
-![Screenshot 2025-04-26 111741](https://github.com/user-attachments/assets/00987941-7a09-4409-b459-b2f72b992bce)
-
-![Screenshot 2025-04-26 111754](https://github.com/user-attachments/assets/8ae98bd6-c7d9-482d-b2d3-c802601b97f3)
-
-![Screenshot 2025-04-26 111802](https://github.com/user-attachments/assets/68365a66-6e29-4285-bc0a-2faea6587951)
-
+![image](https://github.com/user-attachments/assets/f8005da7-8402-43f4-8a98-d2b43295ea8f)
+![image](https://github.com/user-attachments/assets/12b56a94-86a8-43ad-9fd6-b313b7428768)
+![image](https://github.com/user-attachments/assets/b00cb808-4a31-4d05-82f9-ce5f4f572882)
+![image](https://github.com/user-attachments/assets/824b727a-03e8-4466-ae23-3ac4b5718ef4)
+![image](https://github.com/user-attachments/assets/4c6716bb-dd84-4324-b387-d419a395fe23)
+![image](https://github.com/user-attachments/assets/39b469a7-7e97-4ba1-a3bc-3e4c17aa2d04)
+![image](https://github.com/user-attachments/assets/ae90ecb7-9830-4dc2-a312-70b6f7c2c0fa)
+![image](https://github.com/user-attachments/assets/e5223700-4e87-46a1-a71d-2119bae9dc92)
+![image](https://github.com/user-attachments/assets/3596a78e-d02f-4a81-9f78-5a2bda5710bb)
+![image](https://github.com/user-attachments/assets/e46074cf-2f55-457c-9236-42d4de6f1de2)
+![image](https://github.com/user-attachments/assets/f17d2ea1-c0d5-4c8e-842b-82a29f44116e)
+![image](https://github.com/user-attachments/assets/c3f0a521-d014-4a29-bb69-f84195b33597)
+![image](https://github.com/user-attachments/assets/a2a01c63-ac01-43c6-bca5-450dd3b1f35f)
+![image](https://github.com/user-attachments/assets/f456f211-cd45-447b-838c-c8f22a7c0eb4)
+![image](https://github.com/user-attachments/assets/d0c8bcd7-ceac-4c3a-b46d-bb344a311c35)
+![image](https://github.com/user-attachments/assets/34cf5506-1565-466a-ae11-cfe34098eaad)
+![image](https://github.com/user-attachments/assets/5968b3fc-7c3d-4ab1-a9c8-ba5dbb857952)
+![image](https://github.com/user-attachments/assets/87fad7c6-82db-4a0e-beb9-271fedb8dfd9)
+![image](https://github.com/user-attachments/assets/6ff470e3-2cdc-4c47-b26d-1211bd66efc9)
+![image](https://github.com/user-attachments/assets/f6cc8454-38ce-43a6-afad-d7798b39d8b6)
+![image](https://github.com/user-attachments/assets/6f2b4ee4-cf35-4b5d-a217-4364b96b9461)
+![image](https://github.com/user-attachments/assets/d2f60dcc-03fa-4667-8bf4-7fb9b7b05255)
+![image](https://github.com/user-attachments/assets/64428b89-2f9c-46da-a4a7-9945f88c1bcb)
+![image](https://github.com/user-attachments/assets/d46cdcaa-ac77-4593-a891-d5f3659b3d6e)
+![image](https://github.com/user-attachments/assets/772401d6-2f10-4a3a-a50b-4a28f15253b1)
+![image](https://github.com/user-attachments/assets/5f8d6565-9064-462e-a724-67ddd1a5d951)
+![image](https://github.com/user-attachments/assets/c6b5a99a-da01-4886-b82d-c2cbbe88666e)
+![image](https://github.com/user-attachments/assets/0d43f58c-ab5e-418e-8fdd-fea92e422a14)
+![image](https://github.com/user-attachments/assets/7b330436-3448-46c6-88bb-aa5fbb39a140)
+![image](https://github.com/user-attachments/assets/2e096dec-2943-4dc7-a43f-95cd0627ccfb)
 
 # RESULT:
-Thus the the given data is performed Feature Scaling and Feature Selection process and saved the
-data to a file successfully.
-
+Thus the given data, Feature Scaling and Feature Selection and save the data to a file was performed successfully.
